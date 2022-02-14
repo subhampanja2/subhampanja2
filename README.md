@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subhampanja2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming/arts/entrepreneurship/sports/adventure
+- 🌱 I’m currently learning advanced javascript
+- 💞️ I’m looking to collaborate on Javascript projects
 - 📫 How to reach me ... https://subhampanja-28.web.app
 
 <!---
